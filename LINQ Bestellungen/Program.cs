@@ -38,7 +38,7 @@ namespace LINQ_Bestellungen
                 
             //    Console.WriteLine(item.Artikelnummer+" "+item.Name);
             //}
-            // Hallo 
+            // HALLO <3 
             Console.ReadLine();
         }
     }
